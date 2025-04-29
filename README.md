@@ -1,1 +1,2 @@
 # Early-Detection-of-Sepsis-Using-Predictive-Modeling
+Our sepsis prediction model offers a reliable and practical approach for early detection of sepsis using patient data. By comparing multiple machine learning algorithms and tuning the best one, we achieved strong performance with limited data. The use of class balancing, feature scaling, and hyperparameter tuning helped improve accuracy and model stability. This framework can support clinical decisions by identifying high-risk patients early, making it a useful tool for improving healthcare outcomes.
